@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="t_ks" max_length="40" name="x_58872_needit_t_ks" type="collection">
+        <element default="f_ks" label="f_ks" max_length="9" name="f_ksf_ks" type="string"/>
+    </element>
+</database>
